@@ -5,8 +5,8 @@ import csv
 
 client = discord.Client()
 
-discord_channel_id = 742377444622860333 #insert discord channel id here (int)
-bot_id = 742360602898595861 #insert bot discord id (int)
+discord_channel_id = 1234567890 #insert discord channel id here (int)
+bot_id = 1234567890 #insert bot discord id (int)
 
 @client.event
 async def on_ready():
